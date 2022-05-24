@@ -1,5 +1,4 @@
-### Hi there 👋
-I'm just an unremarkable game player.
+ ### I'm just an unremarkable game lover.
 <!--
 **EskiNott/EskiNott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
