@@ -1,5 +1,8 @@
  ### I'm just an unremarkable game lover.
  Most of my projects were set to private. I'm sorry for that.
+
+ My Game Design Blog: https://cyanl.com
+ 
 <!--
 **EskiNott/EskiNott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
