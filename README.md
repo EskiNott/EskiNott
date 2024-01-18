@@ -2,7 +2,7 @@
  Most of my projects were set to private. I'm sorry for that.
 
  My game design blog: https://cyanl.com
- (chinese only)
+ (Chinese)
  
 <!--
 **EskiNott/EskiNott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
